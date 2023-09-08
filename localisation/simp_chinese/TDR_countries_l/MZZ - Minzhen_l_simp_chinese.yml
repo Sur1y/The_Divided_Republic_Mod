@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ MZZ_Qinjin:0 "秦晋"
+ MZZ_Qinjin_desc:0 "秦晋，现任中国民运团体联合工作委员会秘书长。澳洲悉尼大学社会学博士，中国民主运动人士。1989年初参与海外民运，先后加入民联和民阵，歷任民阵澳洲分部监事会主席、纽省支部主席、澳洲分部主席。1999年获澳洲西雪梨大学亚洲研究硕士学位。在五月全国大罢工后，民阵行动派革命人士来到浙江一带秘密行动，期间民阵策划了许多次游行，示威以及破坏行动。而秦晋则在澳洲组织宣传活动，筹集捐款，进行宣传，购买武器，并向海外媒体披露中国政府的血腥暴力镇压行为。十月中共倒台后，民阵人士与当地民众在浙江一带发动大起义，要求立即建立民主政府。由于北京方面已经陷入混乱，不明局势的军队选择放下武器，与民众站在一起。随后民阵在浙江取得了领导权。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ MZZ_despotism_party:0 "浙江政府"
+ MZZ_despotism_party_long:0 "浙江政府"
+ MZZ_conservatism_party:0 "民主中国阵线"
+ MZZ_conservatism_party_long:0 "民主中国阵线"
+ MZZ_liberalism_party:0 "民主中国阵线"
+ MZZ_liberalism_party_long:0 "民主中国阵线"
+ MZZ_communism_party:0 "浙江公社"
+ MZZ_communism_party_long:0 "浙江人民公社"
+ MZZ_socialism_party:0 "浙江人民政府"
+ MZZ_socialism_party_long:0 "浙江人民政府"
+
+### Country Names ###
+ MZZ:0 "民主中国阵线"
+ MZZ_DEF:0 "民主中国阵线"
+ MZZ_ADJ:0 "中国人"

@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ 
+### Characters ### 
+
+ PRC_Xi_Jinping:0 "习近平"
+ PRC_Xi_Jinping_leader_desc:0 "§O习近平冷酷无情 是美国最大威胁、最难缠对手 — 迈克·蓬佩奥§!\n在习近平主政的十年里，他将权力集中在自己手中，无情地清除对手、推行个人崇拜、封杀批评，并将他的思想—习近平新时代中国特色社会主义思想—写入宪法。他真正想要的是成为中国有史以来最强大的领导人，而中共刚将胜利交付予他。"
+
+
+
+
+### Parties ###
+ PRC_conservatism_party:0 "政协"
+ PRC_conservatism_party_long:0 "Kuomintang Revolutionary Committee"
+ PRC_communism_party:0 "中国共产党（毛派）"
+ PRC_communism_party_long:0 "Communist Party of China"
+ PRC_socialism_party:0 "中国共产党（习派）"
+ PRC_socialism_party_long:0 "Socialism with Chinese characteristics"
+ PRC_fascism_party:0 "中央军委"
+ PRC_fascism_party_long:0 "Central Military Commission"
+

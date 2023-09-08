@@ -1,0 +1,35 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ GDG_Wang_Yang:0 "汪洋"
+ GDG_Wang_Yang_desc:0 ""
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ GDG_despotism_party:0 "广东政府"
+ GDG_despotism_party_long:0 "广东政府"
+ GDG_conservatism_party:0 "广东临时政府"
+ GDG_conservatism_party_long:0 "广东临时政府"
+ GDG_communism_party:0 "广东公社"
+ GDG_communism_party_long:0 "广东人民公社"
+ GDG_socialism_party:0 "广东人民政府"
+ GDG_socialism_party_long:0 "广东人民政府"
+ GDG_authoritarianism_party:0 "广东临时政府"
+ GDG_authoritarianism_party_long:0 "广东临时政府"
+
+### Country Names ###
+ GDG:0 "广东国"
+ GDG_DEF:0 "广东国"
+ GDG_authoritarianism:0 "广东临时政府"
+ GDG_ADJ:0 "中国人"

@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ TWN_Tsai_Ing-wen:0 "蔡英文"
+ TWN_Tsai_Ing-wen_desc:0 ""
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ TWN_despotism_party:0 "台湾政府"
+ TWN_despotism_party_long:0 "台湾政府"
+ TWN_conservatism_party:0 "国民党"
+ TWN_conservatism_party_long:0 "国民党"
+ TWN_liberalism_party:0 "民进党"
+ TWN_liberalism_party_long:0 "民族进步党"
+ TWN_communism_party:0 "台湾公社"
+ TWN_communism_party_long:0 "台湾人民公社"
+ TWN_socialism_party:0 "台湾人民政府"
+ TWN_socialism_party_long:0 "台湾人民政府"
+ TWN_authoritarian_democrat_party:0 "紧急政府"
+ TWN_authoritarian_democrat_party_long:0 "紧急政府"
+
+
+### Country Names ###
+ TWN:0 "中华民国"
+ TWN_DEF:0 "中华民国"
+ TWN_ADJ:0 "台湾人"

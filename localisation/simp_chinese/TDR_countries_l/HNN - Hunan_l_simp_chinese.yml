@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ HNN_Tang_Baiqiao:0 "唐柏桥"
+ HNN_Tang_Baiqiao_desc:0 "唐柏桥，中国湖南省永州人，是一位对民主具有执着追求的人。他曾在湖南师范大学政治系就读，并且是中华人民共和国持不同政见者。然而,在六四天安门事件后,唐柏桥因参与抗议活动被捕入狱。1992年，他以政治难民身份赴美，并开始在哥伦比亚大学学习。在此期间，唐柏桥成为了《致命中国》英文版的序言作者。2012年,唐柏桥创立了民主大学，并自任为校长。他希望通过这所学校来宣传和推广民主价值观。作为一个海外的民运者，唐柏桥在一些人看来是和特朗普一样善于煽动民粹的领导者，在战争爆发后他立即回到了他的故乡湖南。在当地，民众对于在经济崩溃后早已对政府有着强烈的不满，唐柏桥在当地组建了民主自由同盟会。在中共崩溃后，他依靠他的个人声望在湖南的第一次当地大选中成功当选。唐柏桥煽动忠于自己的支持者为自己投票并在最后时刻凭借着自己的追随者投票的优势当选为总统。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ HNN_despotism_party:0 "湖南政府"
+ HNN_despotism_party_long:0 "湖南政府"
+ HNN_conservatism_party:0 "民主自由同盟会"
+ HNN_conservatism_party_long:0 "民主自由同盟会"
+ HNN_communism_party:0 "湖南公社"
+ HNN_communism_party_long:0 "湖南人民公社"
+ HNN_socialism_party:0 "湖南人民政府"
+ HNN_socialism_party_long:0 "湖南人民政府"
+ HNN_authoritarian_democrat:0 "湖南临时政府"
+ HNN_authoritarian_democrat_long:0 "湖南临时政府"
+
+### Country Names ###
+ HNN:0 "湖南民主政府"
+ HNN_DEF:0 "湖南民主政府"
+ HNN_ADJ:0 "中国人"

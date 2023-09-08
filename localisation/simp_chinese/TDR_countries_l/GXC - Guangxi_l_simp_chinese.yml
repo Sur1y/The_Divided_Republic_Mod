@@ -1,0 +1,36 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ GXC_Ho_Yau_Kai:0 "何猷启"
+ GXC_Ho_Yau_Kai_desc:0 "何猷启，澳门赌王何鸿燊与其三姨太陈婉珍所生的龙凤胎之子。2014年毕业于美国本特利大学会计及财经学士，2018年当选为广西壮族自治区政协委员。作为在海外成长的年轻一代，何猷启自幼便接触到许多欧美的民主政治思想，其本人也对政治颇有兴趣。他家族的威望令他在参政道路上畅通无阻，在中共倒台后他来到广西参加竞选，他在年轻人之中十分受欢迎，随后成功当选为广西临时政府的首任领导人。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ GXC_despotism_party:0 "广西政府"
+ GXC_despotism_party_long:0 "广西政府"
+ GXC_conservatism_party:0 "广西临时政府"
+ GXC_conservatism_party_long:0 "广西临时政府"
+ GXC_liberalism_party:0 "广西进步党"
+ GXC_liberalism_party_long:0 "广西进步党"
+ GXC_communism_party:0 "广西公社"
+ GXC_communism_party_long:0 "广西人民公社"
+ GXC_socialism_party:0 "广西人民政府"
+ GXC_socialism_party_long:0 "广西人民政府"
+ GXC_authoritarian_democrat:0 "南方军区"
+ GXC_authoritarian_democrat_long:0 "中国人民解放军"
+
+### Country Names ###
+ GXC:0 "广西自治联邦"
+ GXC_DEF:0 "广西自治联邦"
+ GXC_ADJ:0 "中国人"

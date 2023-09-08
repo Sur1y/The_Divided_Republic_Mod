@@ -1,0 +1,8 @@
+﻿l_english:
+  #BE_LATIN_WARS_T:0 "THE LATIN SPRING"  "Event's name"
+  #BE_LATIN_WARS_D:0 "We cannot be sure of having something to live for unless we are willing to die for it.\n- Ernesto 'Che' Guevara" "Event texts"
+  #BE_LATIN_WARS_A:0 "Bolivar's Nightmare" "Buttom"
+
+  US_troops_landing_T:0 "美军部队登陆广东"
+  US_troops_landing_D:0 "如果我们现在不采取行动，中国共产党最终将侵蚀我们的自由，并颠覆我们各国社会辛苦努力地建立起来的基于规则的秩序。如果我们现在屈膝退让，我们的子孙后代就可能受制于中国共产党，如果自由世界不去改变——不去改变，共产主义中国肯定将会改变我们。不能仅仅因为过去的做法安逸或便利就重蹈覆辙。\n- 迈克·蓬佩奥"
+  US_troops_landing_A:0 "是时候收尾了"

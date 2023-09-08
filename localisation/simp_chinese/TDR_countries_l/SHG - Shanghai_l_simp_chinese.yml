@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ SHG_He_Anquan:0 "何岸泉"
+ SHG_He_Anquan_desc:0 "何岸泉，上海民族党主席。在2018年时，何岸泉和一批秉持相同政治理念的人士，在美国成立了政治团体上海民族党，并时常展开、参与反对中国当局的游行集会活动。主张上海独立。2022年上海封城期间，许多上海人意识到中共的真面目，上海本土独立派势力逐渐崛起。在2022年的上海大游行后，何岸泉在海外发起号召，呼吁上海人团结起来独立建国。然而局势快速变化，中国陷入混乱后，何岸泉在美国中情局的资助下带领上海民族党来到上海发起武装革命，在上海人民的帮助以及部分解放军的倒戈下成功占领了上海人民政府，随后上海宣布独立。何岸泉本人也成为了新上海政府的首任总统。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ SHG_despotism_party:0 "上海政府"
+ SHG_despotism_party_long:0 "上海政府"
+ SHG_conservatism_party:0 "上海民族党"
+ SHG_conservatism_party_long:0 "上海民族党"
+ SHG_liberalism_party:0 "上海进步党"
+ SHG_liberalism_party_long:0 "上海进步党"
+ SHG_communism_party:0 "上海公社"
+ SHG_communism_party_long:0 "上海人民公社"
+ SHG_socialism_party:0 "上海人民政府"
+ SHG_socialism_party_long:0 "上海人民政府"
+
+### Country Names ###
+ SHG:0 "上海国"
+ SHG_DEF:0 "上海国"
+ SHG_ADJ:0 "中国人"

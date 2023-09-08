@@ -1,0 +1,62 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+ HNI_UN_Forces:0 "联合国维和部队"
+ HNI_UN_Forces_desc:0 "联合国维和部队是一支由联合国授权的来自世界各地的防御性部队，其目的是为了在冲突地区进行维持秩序以及调停行动，其部队人选大多数来自各国军队之中的精锐，并且大部分维和部队士兵具有丰富的作战经验。"
+ HNI_UN_Hainan_territory:0 "联合国托管地"
+ HNI_UN_Hainan_territory_desc:0 "海南联合国托管地是由联合国托管理事会负责暂时管理的领土，在中国陷入全国性的动乱之后，联合国大会决定向海南岛派遣维和部队以维持秩序以防止进一步的局势恶化。"
+ HNI_Refugee_Crisis_01:0 "难民危机"
+ HNI_Refugee_Crisis_01_desc:0 "来自中国内陆的大量难民正在陆陆续续的抵达海南岛寻求庇护，人群之中夹杂着许多来自各势力的逃兵，他们部分中的人拒绝交出并私藏武器，大量的难民带来了混乱以及犯罪事件。"
+ HNI_Refugee_Crisis_02:0 "减少接受难民"
+ HNI_Refugee_Crisis_02_desc:0 "在我们的难民营承受能力达到上限之后，我们决定减少部分难民名额，优先接受老人妇女以及儿童。"
+ HNI_Refugee_Crisis_03:0 "大量接受难民"
+ HNI_Refugee_Crisis_03_desc:0 "我们应该让所有有需要的人都得到相应的帮助，无论男女老少政治派别，他们都是这场灾难中的受害者。\n§R潜在的饥荒危险！§!"
+ HNI_humanitarianism_fortress:0 "人道主义堡垒"
+ HNI_humanitarianism_fortress_desc:0 "我们应该让所有有需要的人都得到相应的帮助，无论男女老少政治派别，他们都是这场灾难中的受害者。"
+ HNI_restrict_rules_of_engagement:0 "限制交战守则"
+ HNI_restrict_rules_of_engagement_desc:0 "制定交战守则能够最大程度减少连带伤害，这有助与改善我们与当地人的关系，然而这会让我们的部队受到各种约束。"
+ HNI_airlift_supply:0 "空运补给"
+ HNI_airlift_supply_desc:0 "联合国正在组织补给线为海南岛提供大量的食物，淡水，以及医疗用品援助。"
+
+### Characters ### 
+ HNI_United_Nations:0 "联合国大会"
+ HNI_United_Nations_desc:0 "联合国是一个国际性组织，成立于1945年，现有193个会员国。联合国及其工作以《联合国宪章》所载的目标和原则为指导。"
+
+
+### Events ###
+ hainan.1.t:0 "海南联合国托管地的建立"
+ hainan.1.d:0 "在联合国安理会决议S/RES/2803(2023)下，为保证中国局部地区的稳定，联合国宣布在海南岛进行维持和平行动。来自23个国家的维和部队已陆陆续续抵达海南，联合国大会决定，在中国大部分地区得到完全的稳定以及和平之前，海南岛将由联合国暂时托管以防止任何人道主义危机。中华人民共和国代表在联合国大会上表示强烈谴责，并宣布这是国外势力又一次的干涉中国内政，并且将其称之为“21世纪的八国联军”。但是由于中国国内的严重动乱，联合国已经暂停了中华人民共和国的常任安理会以及其代表的所有权限，待局势稳定之后再做任何进一步表决。然而，国际上都将这次行动视为联合国又一次国际合作的成功典范。"
+ hainan.1.a:0 "联合国人民，同兹决心，重申基本人权，人格尊严与价值，以及平等权利..."
+
+
+### Focuses ###
+ HNI_UN_invlove:0 "联合国介入"
+ HNI_UN_invlove_desc:0 "在中国陷入全国性的动乱之后，联合国大会决定向海南岛派遣维和部队以维持秩序以防止进一步的局势恶化。"
+ HNI_Response_Refugee_Crisis_01:0 "减少接受难民"
+ HNI_Response_Refugee_Crisis_01_desc:0 "在我们的难民营承受能力达到上限之后，我们决定减少部分难民名额，优先接受老人妇女以及儿童。"
+ HNI_Response_Refugee_Crisis_02:0 "大量接受难民"
+ HNI_Response_Refugee_Crisis_02_desc:0 "我们应该开放难民入境限制，以让所有有需要的人都得到相应的帮助，无论男女老少政治派别，他们都是这场灾难中的受害者。"
+ HNI_Response_Refugee_Crisis_03:0 "人道主义堡垒"
+ HNI_Response_Refugee_Crisis_03_desc:0 "根据《联合国宪章》，联合国的宗旨之一是“促成国际合作，以解决国际间属于经济、社会、文化及人类福利性质之国际问题。”第二次世界大战后，联合国在满目疮痍的欧洲大陆首次开展了国际合作，以帮助欧洲重建。如今联合国为国际社会所依重，在中国地区进行人为灾害地区协调人道主义救援行动。"
+ HNI_focus_restrict_rules_of_engagement:0 "限制交战守则"
+ HNI_focus_restrict_rules_of_engagement_desc:0 "制定交战守则能够最大程度减少连带伤害，这有助与改善我们与当地人的关系，然而这会让我们的部队受到各种约束。"
+ HNI_focus_airlift_supply:0 "组织空运补给"
+ HNI_focus_airlift_supply_desc:0 "通过与各个国家之间的协助，我们可以组织起一场与1948年柏林空运规模相当的大规模空运物资运输行动，欧美国家对此有着大量的实战经验。"
+ HNI_restrict_Refugees:0 "限制难民入境"
+ HNI_restrict_Refugees_desc:0 "由于难民营超负荷的运转，海南岛当地的治安环境以及食物医疗保障正在不断的恶化，我们应当对进入的难民进行限制，以确保当地秩序不会崩塌。"
+ HNI_Manage_Refugees:0 "难民审查制度"
+ HNI_Manage_Refugees_desc:0 "难民审查制度有助于维持当地治安，我们将难民中有前科的犯罪分子以及士兵单独隔离开来，以防止难民营中出现欺凌和暴动事件发生。"
+
+
+### Parties ###
+ HNI_conservatism_party:0 "海南临时政府"
+ HNI_conservatism_party_long:0 "海南临时政府"
+ HNI_communism_party:0 "琼崖公社"
+ HNI_communism_party_long:0 "琼崖人民公社"
+ HNI_socialism_party:0 "海南省人民政府"
+ HNI_socialism_party_long:0 "海南省人民政府"
+ HNI_authoritarian_democrat_party:0 "海南政府"
+ HNI_authoritarian_democrat_party_long:0 "海南政府"
+ HNI_authoritarianism_party:0 "海南托管政府"
+ HNI_authoritarianism_party:0 "海南联合国临时托管政府"

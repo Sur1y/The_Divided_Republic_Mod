@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ MNG_Guo_Ningning:0 "郭宁宁"
+ MNG_Guo_Ningning_desc:0 "郭宁宁，辽宁沈阳人，中华人民共和国金融人物、政治人物，研究生学历，经济学博士，注册会计师。曾任中国农业银行执行董事、副行长，中共福建省委常委，福建省人民政府副省长、党组副书记。中共第二十届中央候补委员。郭宁宁以身为中国共产党内少见的女性政治新星，入选美国《时代》杂志次世代百大人物（100 Next）名单。在5月1日劳动节的福建工人大罢工期间，郭宁宁作为政府代表与工人领袖接触。在罢工运动被灾难性的暴力镇压后，郭宁宁意识到她所在的中国共产党只不过是一个披着红色外皮的旧社会吃人政府，与历朝历代的中国封建王朝并无不同。在中国陷入混乱后，她与当地工人以及军官谈判，承诺维持当地秩序，但要争取到军方与人民的支持，随后她当选为闽南人民政府的首位书记。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ MNG_despotism_party:0 "福建政府"
+ MNG_despotism_party_long:0 "福建政府"
+ MNG_conservatism_party:0 "福建临时政府"
+ MNG_conservatism_party_long:0 "福建临时政府"
+ MNG_communism_party:0 "闽南公社"
+ MNG_communism_party_long:0 "闽南人民公社"
+ MNG_socialism_party:0 "闽南人民政府"
+ MNG_socialism_party_long:0 "闽南人民政府"
+ MNG_authoritarian_democrat:0 "福建军区"
+ MNG_authoritarian_democrat_long:0 "中国人民解放军福建方面军"
+
+### Country Names ###
+ MNG:0 "闽南人民政府"
+ MNG_DEF:0 "闽南人民政府"
+ MNG_ADJ:0 "中国人"

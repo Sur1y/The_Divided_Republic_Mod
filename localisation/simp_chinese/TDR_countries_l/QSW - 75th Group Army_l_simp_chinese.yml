@@ -1,0 +1,32 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ QSW_Gai_limin:0 "盖立民"
+ QSW_Gai_limin_desc:0 "盖立民，第七十五集团军军长，曾任中国人民解放军兰州军区司令部作战部副部长、军区人防办副主任 ，中国人民解放军68202部队部队长，甘肃临夏军分区司令员。在2022年被习近平调到云南领导第75集团军，外部普遍认为这次任命是习近平对地方省份的又一次军事换血，而盖立民则被认为是习家军内的一员。然而意想不到的是，在内战爆发后，盖立民选择了拥兵自治，脱离了中央政府统治，而他的七十五集团军也成为了华南一股不可忽视的军事力量。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ QSW_despotism_party:0 "第75集团军"
+ QSW_despotism_party_long:0 "第75集团军"
+ QSW_conservatism_party:0 "云南临时政府"
+ QSW_conservatism_party_long:0 "云南临时政府"
+ QSW_communism_party:0 "云南公社"
+ QSW_communism_party_long:0 "云南人民公社"
+ QSW_socialism_party:0 "云南人民政府"
+ QSW_socialism_party_long:0 "云南人民政府"
+
+### Country Names ###
+ QSW:0 "第七十五集团军"
+ QSW_DEF:0 "第七十五集团军"
+ QSW_ADJ:0 "中国人"

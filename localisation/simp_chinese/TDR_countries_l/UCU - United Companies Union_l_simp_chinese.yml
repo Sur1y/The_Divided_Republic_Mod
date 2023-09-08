@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ UCU_Li_Ka-shing:0 "李嘉诚"
+ UCU_Li_Ka-shing_desc:0 "李嘉诚爵士，大紫荆勋贤，香港商人，籍贯广东潮安，香港成长，人称“李超人”曾为亚洲首富，连续多年蝉联香港首富宝座。他创立的长江集团（长江实业）已成为香港最大企业之一。李嘉诚本人与2018年就已退居幕后，将董事会主席交给他的儿子李泽钜接任。在中共倒台之后，深圳的各大企业为了避免战火波及到他们的资产，于是组建了一个紧急委员会来维持当地秩序。李嘉诚由于他无人可及的威望而被推选为委员会主席。然而他本人对参政并没有多大兴趣，他委员会主席的身份也仅仅只是一个头衔，委员会实际还是由各大企业联合管理。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ UCU_despotism_party:0 "巨企联合委员会"
+ UCU_despotism_party_long:0 "巨企联合委员会"
+ UCU_conservatism_party:0 "深圳临时政府"
+ UCU_conservatism_party_long:0 "深圳临时政府"
+ UCU_communism_party:0 "深圳公社"
+ UCU_communism_party_long:0 "深圳人民公社"
+ UCU_socialism_party:0 "深圳人民政府"
+ UCU_socialism_party_long:0 "深圳人民政府"
+ UCU_authoritarian_democrat_party:0 "南方军区"
+ UCU_authoritarian_democrat_party_long:0 "中国人民解放军"
+
+### Country Names ###
+ UCU:0 "联合企业联盟"
+ UCU_DEF:0 "联合企业联盟"
+ UCU_ADJ:0 "中国人"

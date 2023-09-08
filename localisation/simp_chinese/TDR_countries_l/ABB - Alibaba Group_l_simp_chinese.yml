@@ -1,0 +1,32 @@
+﻿l_simp_chinese:
+
+### Ideas ###
+
+
+### Characters ### 
+ ABB_Mayun:0 "马云"
+ ABB_Mayun_desc:0 "马云，祖籍浙江嵊县，生于浙江杭州，中国大陆企业家，前中国共产党党员。曾为亚洲首富、阿里巴巴集团董事局主席，淘宝网、支付宝的创始人，华谊兄弟董事。香港大学经管学院名誉教授。作为中国商界的重要人物，虽然他此前早已听闻各地的动乱愈演愈烈，但他从不认为中国有一天会真的再次陷入内战。当中国陷入混乱后，马云十分错愕。他回到他的家乡杭州，也是他一手建立的阿里集团总部。利用他多年的人脉以及他大量的资本在杭州控制了秩序。他用巨额的钱财贿赂了当地解放军司令以及政府高管，使他能够在杭州建立他的小王国，并让他的家乡能够在这乱世之中保持中立。"
+
+
+### Events ###
+
+
+
+### Focuses ###
+
+
+
+### Parties ###
+ ABB_despotism_party:0 "阿里巴巴集团"
+ ABB_despotism_party_long:0 "阿里巴巴集团"
+ ABB_conservatism_party:0 "杭州临时政府"
+ ABB_conservatism_party_long:0 "杭州临时政府"
+ ABB_communism_party:0 "杭州公社"
+ ABB_communism_party_long:0 "杭州人民公社"
+ ABB_socialism_party:0 "杭州人民政府"
+ ABB_socialism_party_long:0 "杭州人民政府"
+
+### Country Names ###
+ ABB:0 "阿里巴巴集团"
+ ABB_DEF:0 "阿里巴巴集团"
+ ABB_ADJ:0 "中国人"
