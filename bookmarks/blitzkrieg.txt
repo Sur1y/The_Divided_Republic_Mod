@@ -1,0 +1,92 @@
+bookmarks = {
+	bookmark = {
+		name = "BLITZKRIEG_NAME"
+		desc = "BLITZKRIEG_DESC"
+		date = 2024.10.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "PRC"
+	
+		"PRC"={
+			history = "PRC_BLITZKRIEG_DESC"
+			ideology = communism
+			ideas = {
+				PRC_low_fertility
+			}
+			focuses = {
+			
+			}
+		}
+		
+		GDG = {
+			history = "GDG_BLITZKRIEG_DESC"
+			ideology = authoritarian_democrat
+			ideas={
+
+			}
+			focuses = {
+
+			}
+		}
+
+		ASC = {
+			history = "ASC_BLITZKRIEG_DESC"
+			ideology = socialism
+			ideas={
+				ASC_militia_Training
+				ASC_Agriculturalism
+				ASC_forced_labor
+			}
+			focuses = {
+
+			}
+		}
+
+		UCU = {
+			history = "UCU_BLITZKRIEG_DESC"
+			ideology = despotism
+			ideas={
+
+			}
+			focuses = {
+				
+			}
+		}
+
+		HOK = {
+			history = OTHER_GATHERING_STORM_DESC
+			ideology = communism
+			ideas={
+				
+			}
+			focuses = {
+
+			}
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		"HNI"={
+			minor = yes
+			history = "HNI_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				HNI_UN_Hainan_territory
+				HNI_UN_Forces
+				HNI_Refugee_Crisis_01
+			}
+			focuses = {
+				HNI_UN_invlove
+				HNI_Response_Refugee_Crisis_01
+				HNI_Response_Refugee_Crisis_03
+			}
+		}
+
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

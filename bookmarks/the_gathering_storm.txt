@@ -1,0 +1,66 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 2022.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "PRC"
+		default = yes
+		
+        
+
+
+		JAP = {
+			history = OTHER_GATHERING_STORM_DESC
+			ideology = social_conservative
+			ideas={
+				
+			}
+			focuses = {
+
+			}
+		}
+
+		HOK = {
+			history = OTHER_GATHERING_STORM_DESC
+			ideology = communism
+			ideas={
+				HOK_national_security_law
+				HOK_memories_of_protests
+			}
+			focuses = {
+
+			}
+		}
+        
+		"PRC"={
+			history = "PRC_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+				PRC_Politburo_of_CCP
+				PRC_low_fertility
+			}
+			focuses = {
+			
+			}
+		}
+		
+		
+		TWN = {
+			history = OTHER_GATHERING_STORM_DESC
+			ideology = democratic
+			ideas={
+				TWN_Fortress_of_democracy
+			}
+			focuses = {
+
+			}
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+        
+
+	}
+}
