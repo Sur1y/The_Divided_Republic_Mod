@@ -1,0 +1,17 @@
+﻿add_namespace = hainan
+
+
+country_event = {
+	id = hainan.1
+	title = hainan.1.t
+	desc = hainan.1.d
+	picture = GFX_report_event_hainan_UN
+
+	is_triggered_only = yes
+
+	option = {
+		name = hainan.1.a
+		add_political_power = 100 
+	}
+
+}
