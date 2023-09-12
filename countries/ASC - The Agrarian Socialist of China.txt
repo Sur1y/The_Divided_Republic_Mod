@@ -1,0 +1,45 @@
+capital = 165
+
+oob = "standard_templates"
+
+set_stability = 0.6
+set_war_support = 0.5
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_research_slots = 2
+
+add_ideas = {
+	ASC_militia_Training
+	ASC_Agriculturalism
+	ASC_forced_labor
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "2023.10.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	communism = 70
+	conservatism = 5
+	socialism = 15
+	neutrality = 10
+}
+
+create_country_leader = {
+	name = "ASC_Wuhui"
+	desc = "ASC_Wuhui_desc"
+	picture = "gfx/leaders/ASC/ASC_Wuhui.dds"
+	expire = "2077.1.1"
+	ideology = socialist_agrarian_socialism_subtype
+	traits = {
+		
+	}
+}

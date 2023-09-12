@@ -1,0 +1,40 @@
+capital = 145
+
+oob = "standard_templates"
+
+set_stability = 0.6
+set_war_support = 0.5
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_research_slots = 3
+
+add_ideas = {
+
+}
+
+set_politics = {
+	ruling_party = ultraantiviralism
+	last_election = "2023.10.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	ultraantiviralism = 100
+}
+
+create_country_leader = {
+	name = "BWB_Liyan"
+	desc = "BWB_Liyan_desc"
+	picture = "gfx/leaders/BWB/BWB_Liyan.dds"
+	expire = "2077.1.1"
+	ideology = ultraantiviralism_subtype
+	traits = {
+		
+	}
+}

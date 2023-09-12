@@ -1,0 +1,49 @@
+capital = 64
+
+oob = "standard_templates"
+
+set_stability = 0.8
+set_war_support = 0.9
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5206
+
+set_research_slots = 5
+
+add_ideas = {
+	PRC_Politburo_of_CCP
+	PRC_low_fertility
+}
+
+set_autonomy = {
+	target = HOK
+	autonomy_state = autonomy_special_administrative_region
+}
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "2003.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	conservatism = 10
+	fascism = 4
+	socialism = 61
+	communism = 20
+	neutrality = 5
+}
+
+create_country_leader = {
+	name = "PRC_Xi_Jinping"
+	desc = "PRC_Xi_Jinping_leader_desc"
+	picture = "gfx/leaders/PRC/PRC_Xi_Jinping.dds"
+	expire = "2077.1.1"
+	ideology = chinese_socialism_subtype
+	traits = {
+		dictator
+	}
+}

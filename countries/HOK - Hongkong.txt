@@ -1,0 +1,42 @@
+capital = 35
+
+oob = "standard_templates"
+
+set_stability = 0.53
+set_war_support = 0.46
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 20
+
+add_ideas = {
+	HOK_national_security_law
+	HOK_memories_of_protests
+}
+
+set_politics = {
+	ruling_party = authoritarianism
+	last_election = "2003.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	authoritarianism = 60
+	conservatism = 20
+	fascism = 2
+	communism = 10
+	neutrality = 8
+}
+
+create_country_leader = {
+	name = "HOK_Carrie_Lam"
+	desc = "HOK_Carrie_Lam_desc"
+	picture = "gfx/leaders/HOK/HOK_Carrie_Lam.dds"
+	expire = "2077.1.1"
+	ideology = authoritarianism_controlled_democracy_subtype
+	traits = {
+		figurehead_president
+	}
+}

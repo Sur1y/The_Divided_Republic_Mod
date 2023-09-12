@@ -1,0 +1,39 @@
+capital = 13
+
+oob = "standard_templates"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+add_ideas = {
+	TWN_Fortress_of_democracy
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	conservatism = 34
+	liberalism = 50
+	fascism = 2
+	communism = 10
+	neutrality = 4
+}
+
+create_country_leader = {
+	name = "TWN_Tsai_Ing-wen"
+	desc = "TWN_Tsai_Ing-wen_desc"
+	picture = "gfx/leaders/TWN/TWN_Tsai Ing-wen.dds"
+	expire = "2077.1.1"
+	ideology = liberalism_subtype
+	traits = {
+		
+	}
+}
